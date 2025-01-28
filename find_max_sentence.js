@@ -12,7 +12,7 @@ const sentences = [
             result = arr.length
         }
     }
-    console.log(result)
+    return result
   }
   
   console.log(result(sentences));
